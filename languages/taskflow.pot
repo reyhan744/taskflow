@@ -1,0 +1,484 @@
+# Copyright (C) 2026 TaskFlow contributors.
+# This file is distributed under the GPL-2.0-or-later license.
+msgid ""
+msgstr ""
+"Project-Id-Version: TaskFlow 1.0.0\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Domain: taskflow\n"
+
+msgid "TaskFlow"
+msgstr ""
+
+msgid "Team task management"
+msgstr ""
+
+msgid "Dashboard"
+msgstr ""
+
+msgid "Tasks"
+msgstr ""
+
+msgid "Kanban"
+msgstr ""
+
+msgid "Projects"
+msgstr ""
+
+msgid "Tags"
+msgstr ""
+
+msgid "Activity"
+msgstr ""
+
+msgid "Notifications"
+msgstr ""
+
+msgid "Payments (Mock)"
+msgstr ""
+
+msgid "Mail (Mock)"
+msgstr ""
+
+msgid "Settings"
+msgstr ""
+
+msgid "Save"
+msgstr ""
+
+msgid "Cancel"
+msgstr ""
+
+msgid "Close"
+msgstr ""
+
+msgid "Delete"
+msgstr ""
+
+msgid "Edit"
+msgstr ""
+
+msgid "Create"
+msgstr ""
+
+msgid "Update"
+msgstr ""
+
+msgid "Search"
+msgstr ""
+
+msgid "Filters"
+msgstr ""
+
+msgid "Reset filters"
+msgstr ""
+
+msgid "Loading…"
+msgstr ""
+
+msgid "Retry"
+msgstr ""
+
+msgid "Confirm"
+msgstr ""
+
+msgid "Yes"
+msgstr ""
+
+msgid "No"
+msgstr ""
+
+msgid "All"
+msgstr ""
+
+msgid "None"
+msgstr ""
+
+msgid "Me"
+msgstr ""
+
+msgid "Showing"
+msgstr ""
+
+msgid "of"
+msgstr ""
+
+msgid "Previous"
+msgstr ""
+
+msgid "Next"
+msgstr ""
+
+msgid "MOCK/DEMO mode: no real payment gateway or mail server is connected."
+msgstr ""
+
+msgid "New"
+msgstr ""
+
+msgid "In Progress"
+msgstr ""
+
+msgid "Completed"
+msgstr ""
+
+msgid "Low"
+msgstr ""
+
+msgid "Medium"
+msgstr ""
+
+msgid "High"
+msgstr ""
+
+msgid "Urgent"
+msgstr ""
+
+msgid "New Task"
+msgstr ""
+
+msgid "Edit Task"
+msgstr ""
+
+msgid "Title"
+msgstr ""
+
+msgid "Description"
+msgstr ""
+
+msgid "Status"
+msgstr ""
+
+msgid "Priority"
+msgstr ""
+
+msgid "Due date"
+msgstr ""
+
+msgid "Project"
+msgstr ""
+
+msgid "Assignee"
+msgstr ""
+
+msgid "Unassigned"
+msgstr ""
+
+msgid "No project"
+msgstr ""
+
+msgid "Time spent"
+msgstr ""
+
+msgid "Overdue"
+msgstr ""
+
+msgid "Due today"
+msgstr ""
+
+msgid "Completed on"
+msgstr ""
+
+msgid "Created by"
+msgstr ""
+
+msgid "Created"
+msgstr ""
+
+msgid "Updated"
+msgstr ""
+
+msgid "The task title is required."
+msgstr ""
+
+msgid "Delete this task? This action cannot be undone."
+msgstr ""
+
+msgid "No tasks found. Create the first task or adjust the filters."
+msgstr ""
+
+msgid "Comments"
+msgstr ""
+
+msgid "Add a comment… (@username to mention)"
+msgstr ""
+
+msgid "Send"
+msgstr ""
+
+msgid "History"
+msgstr ""
+
+msgid "Start timer"
+msgstr ""
+
+msgid "Stop timer"
+msgstr ""
+
+msgid "Timer running"
+msgstr ""
+
+msgid "Move to"
+msgstr ""
+
+msgid "Tag"
+msgstr ""
+
+msgid "Only overdue"
+msgstr ""
+
+msgid "Sort by"
+msgstr ""
+
+msgid "Ascending"
+msgstr ""
+
+msgid "Descending"
+msgstr ""
+
+msgid "Assigned to me"
+msgstr ""
+
+msgid "Total tasks"
+msgstr ""
+
+msgid "Open tasks"
+msgstr ""
+
+msgid "My open tasks"
+msgstr ""
+
+msgid "Completion rate"
+msgstr ""
+
+msgid "By priority"
+msgstr ""
+
+msgid "Recent activity"
+msgstr ""
+
+msgid "Logged time (all tasks)"
+msgstr ""
+
+msgid "No activity yet."
+msgstr ""
+
+msgid "New Project"
+msgstr ""
+
+msgid "Edit Project"
+msgstr ""
+
+msgid "Project name"
+msgstr ""
+
+msgid "Color"
+msgstr ""
+
+msgid "Delete this project? Its tasks will be kept without a project."
+msgstr ""
+
+msgid "No projects yet. Group your tasks by creating the first project."
+msgstr ""
+
+msgid "New Tag"
+msgstr ""
+
+msgid "Tag name"
+msgstr ""
+
+msgid "No tags yet."
+msgstr ""
+
+msgid "Payments (Mock Gateway)"
+msgstr ""
+
+msgid "New simulated payment"
+msgstr ""
+
+msgid "Amount"
+msgstr ""
+
+msgid "Currency"
+msgstr ""
+
+msgid "Order reference (optional)"
+msgstr ""
+
+msgid "Simulated outcome"
+msgstr ""
+
+msgid "Successful"
+msgstr ""
+
+msgid "Failed"
+msgstr ""
+
+msgid "Pending"
+msgstr ""
+
+msgid "Finalize"
+msgstr ""
+
+msgid "Finalize as successful"
+msgstr ""
+
+msgid "Finalize as failed"
+msgstr ""
+
+msgid "Transactions"
+msgstr ""
+
+msgid "Gateway reference"
+msgstr ""
+
+msgid "Order"
+msgstr ""
+
+msgid "Totals"
+msgstr ""
+
+msgid "No simulated transactions yet."
+msgstr ""
+
+msgid "Outbox"
+msgstr ""
+
+msgid "Inbox"
+msgstr ""
+
+msgid "Compose (simulated send)"
+msgstr ""
+
+msgid "Simulate incoming e-mail"
+msgstr ""
+
+msgid "To"
+msgstr ""
+
+msgid "From"
+msgstr ""
+
+msgid "Subject"
+msgstr ""
+
+msgid "Message"
+msgstr ""
+
+msgid "Sent"
+msgstr ""
+
+msgid "Received"
+msgstr ""
+
+msgid "Mark as read"
+msgstr ""
+
+msgid "The Outbox is empty. Assignment notifications and manual sends appear here."
+msgstr ""
+
+msgid "The Inbox is empty. Use \"Simulate incoming e-mail\" to add a message."
+msgstr ""
+
+msgid "General"
+msgstr ""
+
+msgid "Currency code"
+msgstr ""
+
+msgid "Tasks per page"
+msgstr ""
+
+msgid "In-app notification on assignment"
+msgstr ""
+
+msgid "In-app notification on status change"
+msgstr ""
+
+msgid "In-app notification on comment / mention"
+msgstr ""
+
+msgid "Create MOCK e-mail in Outbox on assignment"
+msgstr ""
+
+msgid "Who can use TaskFlow"
+msgstr ""
+
+msgid "Administrators and editors always have access. Selected roles can create tasks and edit their own."
+msgstr ""
+
+msgid "Data"
+msgstr ""
+
+msgid "Export tasks (CSV)"
+msgstr ""
+
+msgid "Export tasks (JSON)"
+msgstr ""
+
+msgid "Import tasks (CSV)"
+msgstr ""
+
+msgid "Header row: title,description,status,priority,due_date,project,tags,assignee"
+msgstr ""
+
+msgid "Download CSV template"
+msgstr ""
+
+msgid "Uninstall behavior"
+msgstr ""
+
+msgid "When enabled, deleting the plugin removes all TaskFlow tables and settings permanently. When disabled, data survives re-installation."
+msgstr ""
+
+msgid "Delete all data when the plugin is deleted"
+msgstr ""
+
+msgid "Create DEMO data (MOCK/DEMO)"
+msgstr ""
+
+msgid "Adds a few clearly labeled demo tasks, projects and tags for evaluation."
+msgstr ""
+
+msgid "System information"
+msgstr ""
+
+msgid "The settings were saved."
+msgstr ""
+
+msgid "Something went wrong. Please try again."
+msgstr ""
+
+msgid "Connection error. Please check your internet and try again."
+msgstr ""
+
+msgid "You do not have permission for this action."
+msgstr ""
+
+msgid "The item was not found. It may have been deleted."
+msgstr ""
+
+msgid "Are you sure?"
+msgstr ""
+
+msgid "Copied."
+msgstr ""
+
+msgid "just now"
+msgstr ""
+
+msgid "min ago"
+msgstr ""
+
+msgid "h ago"
+msgstr ""
+
+msgid "d ago"
+msgstr ""
+
+msgid "Mark all as read"
+msgstr ""
+
+msgid "No notifications yet."
+msgstr ""
+

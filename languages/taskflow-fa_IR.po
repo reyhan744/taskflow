@@ -1,0 +1,487 @@
+# Persian translation for TaskFlow.
+msgid ""
+msgstr ""
+"Project-Id-Version: TaskFlow 1.0.0\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"PO-Revision-Date: 2026-11-04 12:00+0330\n"
+"Language-Team: Persian\n"
+"Language: fa_IR\n"
+"Plural-Forms: nplurals=2; plural=(n == 0 || n == 1) ? 0 : 1;\n"
+"X-Domain: taskflow\n"
+
+msgid "TaskFlow"
+msgstr "تسک‌فلو"
+
+msgid "Team task management"
+msgstr "مدیریت وظایف تیمی"
+
+msgid "Dashboard"
+msgstr "داشبورد"
+
+msgid "Tasks"
+msgstr "وظایف"
+
+msgid "Kanban"
+msgstr "کانبان"
+
+msgid "Projects"
+msgstr "پروژه‌ها"
+
+msgid "Tags"
+msgstr "برچسب‌ها"
+
+msgid "Activity"
+msgstr "تاریخچه فعالیت‌ها"
+
+msgid "Notifications"
+msgstr "اعلان‌ها"
+
+msgid "Payments (Mock)"
+msgstr "پرداخت‌ها (Mock)"
+
+msgid "Mail (Mock)"
+msgstr "ایمیل (Mock)"
+
+msgid "Settings"
+msgstr "تنظیمات"
+
+msgid "Save"
+msgstr "ذخیره"
+
+msgid "Cancel"
+msgstr "انصراف"
+
+msgid "Close"
+msgstr "بستن"
+
+msgid "Delete"
+msgstr "حذف"
+
+msgid "Edit"
+msgstr "ویرایش"
+
+msgid "Create"
+msgstr "ایجاد"
+
+msgid "Update"
+msgstr "به‌روزرسانی"
+
+msgid "Search"
+msgstr "جستجو"
+
+msgid "Filters"
+msgstr "فیلترها"
+
+msgid "Reset filters"
+msgstr "حذف فیلترها"
+
+msgid "Loading…"
+msgstr "در حال بارگذاری…"
+
+msgid "Retry"
+msgstr "تلاش دوباره"
+
+msgid "Confirm"
+msgstr "تأیید"
+
+msgid "Yes"
+msgstr "بله"
+
+msgid "No"
+msgstr "خیر"
+
+msgid "All"
+msgstr "همه"
+
+msgid "None"
+msgstr "هیچ"
+
+msgid "Me"
+msgstr "من"
+
+msgid "Showing"
+msgstr "نمایش"
+
+msgid "of"
+msgstr "از"
+
+msgid "Previous"
+msgstr "قبلی"
+
+msgid "Next"
+msgstr "بعدی"
+
+msgid "MOCK/DEMO mode: no real payment gateway or mail server is connected."
+msgstr "حالت MOCK/DEMO: هیچ درگاه پرداخت یا سرور ایمیل واقعی متصل نیست."
+
+msgid "New"
+msgstr "جدید"
+
+msgid "In Progress"
+msgstr "در حال انجام"
+
+msgid "Completed"
+msgstr "تکمیل‌شده"
+
+msgid "Low"
+msgstr "کم"
+
+msgid "Medium"
+msgstr "متوسط"
+
+msgid "High"
+msgstr "زیاد"
+
+msgid "Urgent"
+msgstr "فوری"
+
+msgid "New Task"
+msgstr "وظیفه جدید"
+
+msgid "Edit Task"
+msgstr "ویرایش وظیفه"
+
+msgid "Title"
+msgstr "عنوان"
+
+msgid "Description"
+msgstr "توضیحات"
+
+msgid "Status"
+msgstr "وضعیت"
+
+msgid "Priority"
+msgstr "اولویت"
+
+msgid "Due date"
+msgstr "سررسید"
+
+msgid "Project"
+msgstr "پروژه"
+
+msgid "Assignee"
+msgstr "مسئول"
+
+msgid "Unassigned"
+msgstr "بدون مسئول"
+
+msgid "No project"
+msgstr "بدون پروژه"
+
+msgid "Time spent"
+msgstr "زمان صرف‌شده"
+
+msgid "Overdue"
+msgstr "عقب‌افتاده"
+
+msgid "Due today"
+msgstr "سررسید امروز"
+
+msgid "Completed on"
+msgstr "تکمیل‌شده در"
+
+msgid "Created by"
+msgstr "ایجادکننده"
+
+msgid "Created"
+msgstr "ایجاد"
+
+msgid "Updated"
+msgstr "به‌روزرسانی"
+
+msgid "The task title is required."
+msgstr "عنوان وظیفه الزامی است."
+
+msgid "Delete this task? This action cannot be undone."
+msgstr "این وظیفه حذف شود؟ این اقدام قابل بازگشت نیست."
+
+msgid "No tasks found. Create the first task or adjust the filters."
+msgstr "وظیفه‌ای یافت نشد. نخستین وظیفه را بسازید یا فیلترها را تغییر دهید."
+
+msgid "Comments"
+msgstr "نظرات"
+
+msgid "Add a comment… (@username to mention)"
+msgstr "نظر بنویسید… (@username برای منشن)"
+
+msgid "Send"
+msgstr "ارسال"
+
+msgid "History"
+msgstr "تاریخچه"
+
+msgid "Start timer"
+msgstr "شروع تایمر"
+
+msgid "Stop timer"
+msgstr "توقف تایمر"
+
+msgid "Timer running"
+msgstr "تایمر در حال اجرا"
+
+msgid "Move to"
+msgstr "انتقال به"
+
+msgid "Tag"
+msgstr "برچسب"
+
+msgid "Only overdue"
+msgstr "فقط عقب‌افتاده‌ها"
+
+msgid "Sort by"
+msgstr "مرتب‌سازی"
+
+msgid "Ascending"
+msgstr "صعودی"
+
+msgid "Descending"
+msgstr "نزولی"
+
+msgid "Assigned to me"
+msgstr "محول‌شده به من"
+
+msgid "Total tasks"
+msgstr "کل وظایف"
+
+msgid "Open tasks"
+msgstr "وظایف باز"
+
+msgid "My open tasks"
+msgstr "وظایف باز من"
+
+msgid "Completion rate"
+msgstr "نرخ تکمیل"
+
+msgid "By priority"
+msgstr "بر اساس اولویت"
+
+msgid "Recent activity"
+msgstr "فعالیت‌های اخیر"
+
+msgid "Logged time (all tasks)"
+msgstr "زمان ثبت‌شده (همه وظایف)"
+
+msgid "No activity yet."
+msgstr "هنوز فعالیتی ثبت نشده است."
+
+msgid "New Project"
+msgstr "پروژه جدید"
+
+msgid "Edit Project"
+msgstr "ویرایش پروژه"
+
+msgid "Project name"
+msgstr "نام پروژه"
+
+msgid "Color"
+msgstr "رنگ"
+
+msgid "Delete this project? Its tasks will be kept without a project."
+msgstr "این پروژه حذف شود؟ وظایف آن بدون پروژه باقی می‌مانند."
+
+msgid "No projects yet. Group your tasks by creating the first project."
+msgstr "هنوز پروژه‌ای نیست. با ساخت نخستین پروژه، وظایف را گروه‌بندی کنید."
+
+msgid "New Tag"
+msgstr "برچسب جدید"
+
+msgid "Tag name"
+msgstr "نام برچسب"
+
+msgid "No tags yet."
+msgstr "هنوز برچسبی نیست."
+
+msgid "Payments (Mock Gateway)"
+msgstr "پرداخت‌ها (درگاه Mock)"
+
+msgid "New simulated payment"
+msgstr "پرداخت شبیه‌سازی‌شده جدید"
+
+msgid "Amount"
+msgstr "مبلغ"
+
+msgid "Currency"
+msgstr "ارز"
+
+msgid "Order reference (optional)"
+msgstr "شناسه سفارش (اختیاری)"
+
+msgid "Simulated outcome"
+msgstr "نتیجه شبیه‌سازی‌شده"
+
+msgid "Successful"
+msgstr "موفق"
+
+msgid "Failed"
+msgstr "ناموفق"
+
+msgid "Pending"
+msgstr "در انتظار"
+
+msgid "Finalize"
+msgstr "نهایی‌سازی"
+
+msgid "Finalize as successful"
+msgstr "نهایی‌سازی به‌عنوان موفق"
+
+msgid "Finalize as failed"
+msgstr "نهایی‌سازی به‌عنوان ناموفق"
+
+msgid "Transactions"
+msgstr "تراکنش‌ها"
+
+msgid "Gateway reference"
+msgstr "شناسه درگاه"
+
+msgid "Order"
+msgstr "سفارش"
+
+msgid "Totals"
+msgstr "جمع کل"
+
+msgid "No simulated transactions yet."
+msgstr "هنوز تراکنش شبیه‌سازی‌شده‌ای ثبت نشده است."
+
+msgid "Outbox"
+msgstr "صندوق خروجی"
+
+msgid "Inbox"
+msgstr "صندوق ورودی"
+
+msgid "Compose (simulated send)"
+msgstr "نگارش ایمیل (ارسال شبیه‌سازی‌شده)"
+
+msgid "Simulate incoming e-mail"
+msgstr "شبیه‌سازی ایمیل ورودی"
+
+msgid "To"
+msgstr "گیرنده"
+
+msgid "From"
+msgstr "فرستنده"
+
+msgid "Subject"
+msgstr "موضوع"
+
+msgid "Message"
+msgstr "متن پیام"
+
+msgid "Sent"
+msgstr "ارسال‌شده"
+
+msgid "Received"
+msgstr "دریافت‌شده"
+
+msgid "Mark as read"
+msgstr "خوانده شد"
+
+msgid "The Outbox is empty. Assignment notifications and manual sends appear here."
+msgstr "صندوق خروجی خالی است. اعلان‌های محول‌شدن وظیفه و ارسال‌های دستی اینجا نمایش داده می‌شوند."
+
+msgid "The Inbox is empty. Use \"Simulate incoming e-mail\" to add a message."
+msgstr "صندوق ورودی خالی است. با «شبیه‌سازی ایمیل ورودی» پیامی اضافه کنید."
+
+msgid "General"
+msgstr "عمومی"
+
+msgid "Currency code"
+msgstr "کد ارز"
+
+msgid "Tasks per page"
+msgstr "تعداد وظایف در هر صفحه"
+
+msgid "In-app notification on assignment"
+msgstr "اعلان درون‌برنامه‌ای هنگام محول‌شدن وظیفه"
+
+msgid "In-app notification on status change"
+msgstr "اعلان درون‌برنامه‌ای هنگام تغییر وضعیت"
+
+msgid "In-app notification on comment / mention"
+msgstr "اعلان درون‌برنامه‌ای هنگام نظر یا منشن"
+
+msgid "Create MOCK e-mail in Outbox on assignment"
+msgstr "ثبت ایمیل MOCK در صندوق خروجی هنگام محول‌شدن وظیفه"
+
+msgid "Who can use TaskFlow"
+msgstr "چه کسانی می‌توانند از تسک‌فلو استفاده کنند"
+
+msgid "Administrators and editors always have access. Selected roles can create tasks and edit their own."
+msgstr "مدیران و ویرایشگران همیشه دسترسی دارند. نقش‌های انتخاب‌شده می‌توانند وظیفه بسازند و وظایف خود را ویرایش کنند."
+
+msgid "Data"
+msgstr "داده‌ها"
+
+msgid "Export tasks (CSV)"
+msgstr "خروجی وظایف (CSV)"
+
+msgid "Export tasks (JSON)"
+msgstr "خروجی وظایف (JSON)"
+
+msgid "Import tasks (CSV)"
+msgstr "ورود وظایف (CSV)"
+
+msgid "Header row: title,description,status,priority,due_date,project,tags,assignee"
+msgstr "ردیف سرستون: title,description,status,priority,due_date,project,tags,assignee"
+
+msgid "Download CSV template"
+msgstr "دانلود قالب CSV"
+
+msgid "Uninstall behavior"
+msgstr "رفتار هنگام حذف افزونه"
+
+msgid "When enabled, deleting the plugin removes all TaskFlow tables and settings permanently. When disabled, data survives re-installation."
+msgstr "در صورت فعال‌بودن، حذف افزونه همه جدول‌ها و تنظیمات تسک‌فلو را برای همیشه پاک می‌کند. در غیر این صورت داده‌ها پس از نصب مجدد باقی می‌مانند."
+
+msgid "Delete all data when the plugin is deleted"
+msgstr "حذف کامل داده‌ها هنگام پاک‌کردن افزونه"
+
+msgid "Create DEMO data (MOCK/DEMO)"
+msgstr "ساخت داده‌های نمایشی (MOCK/DEMO)"
+
+msgid "Adds a few clearly labeled demo tasks, projects and tags for evaluation."
+msgstr "چند وظیفه، پروژه و برچسب نمایشی با برچسب مشخص MOCK برای ارزیابی اضافه می‌کند."
+
+msgid "System information"
+msgstr "اطلاعات سیستم"
+
+msgid "The settings were saved."
+msgstr "تنظیمات ذخیره شد."
+
+msgid "Something went wrong. Please try again."
+msgstr "خطایی رخ داد. لطفاً دوباره تلاش کنید."
+
+msgid "Connection error. Please check your internet and try again."
+msgstr "خطای اتصال. لطفاً اینترنت خود را بررسی و دوباره تلاش کنید."
+
+msgid "You do not have permission for this action."
+msgstr "شما مجوز این اقدام را ندارید."
+
+msgid "The item was not found. It may have been deleted."
+msgstr "مورد موردنظر یافت نشد؛ ممکن است حذف شده باشد."
+
+msgid "Are you sure?"
+msgstr "مطمئن هستید؟"
+
+msgid "Copied."
+msgstr "کپی شد."
+
+msgid "just now"
+msgstr "همین حالا"
+
+msgid "min ago"
+msgstr "دقیقه پیش"
+
+msgid "h ago"
+msgstr "ساعت پیش"
+
+msgid "d ago"
+msgstr "روز پیش"
+
+msgid "Mark all as read"
+msgstr "علامت‌زدن همه به‌عنوان خوانده‌شده"
+
+msgid "No notifications yet."
+msgstr "هنوز اعلانی نیست."
+
