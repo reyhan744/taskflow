@@ -1,0 +1,14 @@
+# Node / build artifacts (the plugin ships prebuilt assets)
+node_modules/
+*.log
+
+# OS / editor
+.DS_Store
+Thumbs.db
+.idea/
+.vscode/
+
+# Local tooling (not part of the plugin)
+tools/
+phpunit.phar
+.wp-test/
